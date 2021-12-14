@@ -2,6 +2,7 @@
 Introduction to Computer Science I at UCLA, Language: C++
 
 Projects included:
+
 Project 3: Grid Game
 Developed the program for a navigation game with character-based graphics. Implements fundamentals of C++ and functions.
 
